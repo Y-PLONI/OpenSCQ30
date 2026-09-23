@@ -1,5 +1,19 @@
 # Changelog
 
+## v2.12.1
+
+### General
+
+#### Fixes
+
+- Fix Soundcore Liberty 4 Pro (A3954) state packets without slide button configuration
+
+### GUI
+
+#### Features
+
+- Add theme setting (system/light/dark)
+
 ## v2.12.0
 
 ### General

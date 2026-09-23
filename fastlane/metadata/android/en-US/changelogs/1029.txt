@@ -1,0 +1,2 @@
+* Fixes
+  - Fix Soundcore Liberty 4 Pro (A3954) state packets without slide button configuration

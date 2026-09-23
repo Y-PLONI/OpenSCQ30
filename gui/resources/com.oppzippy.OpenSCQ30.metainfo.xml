@@ -41,6 +41,18 @@
         <id>com.oppzippy.OpenSCQ30.desktop</id>
     </provides>
     <releases>
+        <release version="2.12.1" date="2026-09-23">
+            <description>
+                <p>Features</p>
+                <ul>
+                    <li>Add theme setting (system/light/dark)</li>
+                </ul>
+                <p>Fixes</p>
+                <ul>
+                    <li>Fix Soundcore Liberty 4 Pro (A3954) state packets without slide button configuration</li>
+                </ul>
+            </description>
+        </release>
         <release version="2.12.0" date="2026-09-02">
             <description>
                 <p>Features</p>
